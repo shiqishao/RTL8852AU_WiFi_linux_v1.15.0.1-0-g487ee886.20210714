@@ -1,1 +1,2 @@
-# RTL8852AU_WiFi_linux_v1.15.0.1-0-g487ee886.20210714
+# Please see https://github.com/lwfinger/rtl8852au
+#### This repository will not be maintained.
